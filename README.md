@@ -10,7 +10,7 @@ En este estudio, utilizamos el conjunto de datos PimaIndiansDiabetes2 del paquet
 
 Realizamos dos análisis visuales sobre las variables predictoras, distinguiendo entre los grupos a clasificar: pacientes con y sin diabetes. Este análisis es crucial, ya que nos permite identificar de manera preliminar las variables que posiblemente tengan mayor influencia en el modelo predictivo.
 
-![Figura 1](Plot%202.1%20de%20la%20tarea%203%20del%20seminario.jpeg)
+![Imagenes](Plot%202.1%20de%20la%20tarea%203%20del%20seminario.jpeg)
 *En general, como se muestra en la figura, las medias de las variables entre los grupos con y sin diabetes son similares. Sin embargo, se puede ver que las diferencias son más evidentes en las variables 'glucose', 'mass', 'age' y 'pregnant', donde un mayor valor tiende a correlacionarse con un mayor riesgo de diabetes. Por otro lado, las variables 'triceps' y 'pressure' no presentan diferencias significativas entre los grupos, sugiriendo que no están directamente relacionadas con la presencia de diabetes.*
 
 El análisis de componentes principales en la figura 2 revela una correlación positiva del grupo rojo con todas las variables de estudio. Las correlaciones más fuertes se observan con 'pressure', 'glucose' e 'insulin', lo que confirma que mayores niveles de glucosa e insulina están asociados con un mayor riesgo de diabetes. Además, la presión arterial también muestra una correlación significativa con la presencia de diabetes en este análisis.
