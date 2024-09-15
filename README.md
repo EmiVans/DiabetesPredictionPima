@@ -1,5 +1,4 @@
-![Plot 2 1 de la tarea 3 del seminario](https://github.com/user-attachments/assets/678aad49-436a-4389-ae44-9bc8d2683c6e)
-![pcejer4](https://github.com/user-attachments/assets/e7eaae0d-0c62-45c3-b517-37747b812081)
+
 # DiabetesPredictionPima
 Fitting Supervised Learning Models for Diabetes Detection Using R
 
